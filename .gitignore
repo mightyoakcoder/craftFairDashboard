@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Local dashboard data (personal inventory state, regenerated per-machine)
+/data/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
